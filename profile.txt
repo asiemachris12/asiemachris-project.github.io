@@ -1,0 +1,2 @@
+$env:GEM_HOME="C:\Users\casie\OneDrive\Coding Folder\Data Science Coding Folder\000. WEBSITE\asiemachris-portfolio.github.io"
+$env:GEM_PATH="C:\Users\casie\OneDrive\Coding Folder\Data Science Coding Folder\000. WEBSITE\asiemachris-portfolio.github.io"
